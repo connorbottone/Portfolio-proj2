@@ -5,7 +5,7 @@
     --outer-space: #33393f;
     --bright-turquoise: #2aefcb;
     --gin: #e0eae4;
-    --heliotrope: #81410d;}
+    --heliotrope: #f3ef11;}
 ::selection {
     background-color: var(--bright-turquoise);
     color: var(--outer-space);
@@ -102,7 +102,7 @@
   }
 
   #contact{
-    background-color: rgb(185, 179, 179);
+    background-color: rgb(223, 88, 205);
   }
 
 
@@ -146,8 +146,8 @@
         }
         
         img.mob-img {
-          width: 1000px;
-          height: 1000px;
+          width: 900px;
+          height: 900px;
         }   
         @media screen and (max-width: 992px) {
           img.mob-img {
@@ -157,4 +157,8 @@
           }       
             
         }
+    h1{
+        color:  rgb(244, 247, 90);
+    }
+   
     
