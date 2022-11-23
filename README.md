@@ -1,4 +1,4 @@
-## Descr- 
+## Description
 - This webpage is a start to my Portfolio.
  - Use the navigation tab at the top to jump to the desired section.
 - This page gives you insight into me and my experience as a web developer.
@@ -37,6 +37,9 @@ Redirect to your specific area of interest by clicking one of the three options 
 - Contact
 
 - Hover over the image in project tabs for a glowing effect.
+- Click the image to be redirected to that webpage.
+
+- All contact info is accessible link.
  
 ## Author
 (email at : connorbottone@gmail.com)
